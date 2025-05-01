@@ -1,0 +1,323 @@
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.182174481056757 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.198081180811808 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.174210642525944 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1685243965453607 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.168861920970845 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1793326473614583 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1754127358490565 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1751554634290793 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1933831064265847 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.173510913799482 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1785558622693593 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.190672355450934 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1667411712114437 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1885664284672597 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1837453238465487 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.169941502924854 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1680094611575136 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1759491800856847 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1809662186705414 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1838431838431838 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.184382096549703 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.185314431115958 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.188166544923302 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.173421439060206 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1763934426229508 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1651728553137004 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.188508064516129 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1873631985991535 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1832864128018965 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1767845230153435 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1872781279432005 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.179781734635267 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.179520984399033 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.190175237000862 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1752728338094194 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1839357429718875 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.188085480093677 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1903816457092433 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1837061866938714 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.19193689745837 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.178355234017422 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.17990156468082 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.190962317970275 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.16454572358686 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.174555771240854 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1639417360285376 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.179905854663136 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.191357569500774 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.172002089396314 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.166160005931638 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1995114591565486 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.172023507219038 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1951432310600554 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.173008849557522 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1825214899713465 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1755827854154215 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1707960709573375 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1822897640096444 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.190750612303703 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.16860208731442 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.181073835229331 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.177193881285223 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.171216246045177 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1764265388647597 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1744743637034305 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1853470249799725 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.179898462217644 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1732876201833493 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1913352169818157 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.186097347712037 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.180504604327319 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1827252203044205 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.174787202817728 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1859215079891023 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1848868712015816 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1731901118304884 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1688427299703266 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1610048743907013 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1713623794933112 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1802967185558724 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1765558211982903 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.176261127596439 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.168375881882319 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1988815600802982 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1735952152403457 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1907642372381235 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1781753659618515 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.168 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.176722230417466 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1816985820786434 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.182741493068426 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1554320807135547 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.186231244483672 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1796620004351928 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.182177927597831 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1764877906126627 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.176776805726267 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.1705358446488536 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.157879124953652 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 2.15972580526277 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.104660860794848 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.974552598124227 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.085388244139654 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.804489846416589 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.841403806522003 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.903128950886877 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.848736460343474 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.966419167715083 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.95924844314651 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.38390400581783 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.982758871366398 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.709762891171387 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.937265253735033 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.86526001963327 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.950119115996927 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.225355496238777 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.915311533094703 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.786734315419988 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.09874827328174 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.87989303568225 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.012153989299836 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.299468984529813 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.629323987969299 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.779219158379671 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.478848989252318 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.101627045926932 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.982557920832328 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.029615318418609 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.13611944497668 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 15.050292040206466 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.949233225326656 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.866495258197133 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.85180277192991 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.732125426075907 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.967114375604917 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.94475624118528 
+The average shortest path length of the largest connected component of the California road network (with approximation) is: 14.832057570562977 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 1 iteration is: 15.09549510886103 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 2 iteration is: 14.914601556823323 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 3 iteration is: 14.66252152239844 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 4 iteration is: 14.741315376362985 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 5 iteration is: 14.876877044350742 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 6 iteration is: 15.037360042284323 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 7 iteration is: 15.052659904580892 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 8 iteration is: 15.13920094274886 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 9 iteration is: 15.036439847947092 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 10 iteration is: 14.898029394989265 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 11 iteration is: 14.982279923388367 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 12 iteration is: 15.089457155675191 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 13 iteration is: 15.044768736087065 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 14 iteration is: 14.840571346825756 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 15 iteration is: 15.029623864921577 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 16 iteration is: 15.077696571939093 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 17 iteration is: 15.170834459791212 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 18 iteration is: 14.969257231719492 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 19 iteration is: 15.040100997979312 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 20 iteration is: 15.028063560985302 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 21 iteration is: 15.10553973206271 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 22 iteration is: 14.865536028481799 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 23 iteration is: 15.203761288046582 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 24 iteration is: 14.793445561341892 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 25 iteration is: 14.94041581965803 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 26 iteration is: 15.069307002682992 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 27 iteration is: 14.880867625306141 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 28 iteration is: 15.126796948459205 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 29 iteration is: 14.975001364289568 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 30 iteration is: 14.989252152178265 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 1 iteration is: 14.998130621319888 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 2 iteration is: 15.07881168106462 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 3 iteration is: 15.389083755409365 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 4 iteration is: 14.992085567978668 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 5 iteration is: 14.620110471778766 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 6 iteration is: 15.015408877074448 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 7 iteration is: 15.172838130084749 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 8 iteration is: 14.985324006926895 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 9 iteration is: 14.802694595531802 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 10 iteration is: 15.094987223380425 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 11 iteration is: 15.147262366634335 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 12 iteration is: 14.741196322997268 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 13 iteration is: 14.828934813314985 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 14 iteration is: 14.84254374962888 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 15 iteration is: 14.865264546351682 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 16 iteration is: 15.059898451303557 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 17 iteration is: 15.18257788685157 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 18 iteration is: 15.110627027839096 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 19 iteration is: 15.469050330772772 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 20 iteration is: 14.894732119363097 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 21 iteration is: 14.841071300925988 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 22 iteration is: 14.960643534346888 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 23 iteration is: 14.82695686653983 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 24 iteration is: 15.032476930000886 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 25 iteration is: 14.970000763616927 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 26 iteration is: 14.769943072623327 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 27 iteration is: 14.90456347547 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 28 iteration is: 14.938247634837875 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 29 iteration is: 14.975429576183835 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 30 iteration is: 15.000254660592 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 1 iteration is: 14.885780439315328 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 2 iteration is: 14.938174827284191 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 3 iteration is: 15.022261123586237 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 4 iteration is: 14.804996787606221 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 5 iteration is: 14.976992042980513 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 6 iteration is: 14.824527924443663 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 7 iteration is: 15.310419055422365 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 8 iteration is: 15.279143654107605 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 9 iteration is: 14.595750692755926 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 10 iteration is: 14.965403882089445 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 11 iteration is: 14.837815881084056 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 12 iteration is: 14.7986859331814 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 13 iteration is: 14.987804094789716 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 14 iteration is: 14.976670168041744 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 15 iteration is: 15.181426521604882 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 16 iteration is: 14.941850626128911 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 17 iteration is: 14.68061170509641 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 18 iteration is: 15.14559711079332 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 19 iteration is: 14.971296738574342 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 20 iteration is: 15.011399693728713 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 21 iteration is: 15.091504329922907 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 22 iteration is: 14.94558677974654 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 23 iteration is: 14.869039627163911 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 24 iteration is: 15.074345638600958 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 25 iteration is: 14.977400349141693 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 26 iteration is: 15.028341112200044 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 27 iteration is: 15.02036565048586 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 28 iteration is: 15.174222972235759 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 29 iteration is: 15.053946264661814 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 30 iteration is: 14.782916653033823 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 1 iteration is: 14.79985877179998 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 2 iteration is: 14.991925811572356 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 3 iteration is: 14.829710681142718 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 4 iteration is: 14.970032440610407 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 5 iteration is: 14.91342868359449 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 6 iteration is: 15.062153582860738 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 7 iteration is: 15.27636669510918 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 8 iteration is: 15.035785307532258 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 9 iteration is: 14.895057723950861 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 10 iteration is: 15.102518702245238 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 11 iteration is: 15.020937560597247 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 12 iteration is: 14.998483262584559 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 1 iteration is: 14.969200790606871 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 2 iteration is: 14.991690160306213 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 3 iteration is: 14.946787658538183 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 4 iteration is: 14.992035784420684 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 5 iteration is: 15.044649495276595 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 6 iteration is: 15.162271318749742 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 7 iteration is: 14.996804279065483 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 8 iteration is: 15.107406352457774 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 9 iteration is: 14.776467196014625 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 10 iteration is: 15.079352499503154 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 1 iteration is: 14.88510648102672 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 1 iteration is: 15.03305228228239 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 2 iteration is: 15.03463070236764 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 3 iteration is: 14.871255905984366 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 4 iteration is: 15.060170915288367 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 5 iteration is: 15.212539374848559 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 6 iteration is: 15.335153912912782 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 7 iteration is: 15.075390422475156 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 8 iteration is: 14.972682290751461 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 9 iteration is: 14.964328128809834 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 10 iteration is: 14.746079893313937 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 11 iteration is: 14.764687061812003 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 1 iteration is: 15.119920135677216 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 2 iteration is: 15.013889326473091 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 1 iteration is: 15.123696680168221 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 2 iteration is: 15.129316481115225 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 3 iteration is: 14.88643746731112 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 4 iteration is: 14.847402136612692 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 5 iteration is: 14.890414279498371 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 6 iteration is: 15.066438645783734 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 7 iteration is: 14.852010571884698 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 8 iteration is: 14.962637741046832 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 9 iteration is: 14.750682626134274 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 10 iteration is: 15.065828855159305 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 11 iteration is: 14.888663906287679 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 12 iteration is: 14.782579544586556 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 13 iteration is: 15.109009252732935 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 14 iteration is: 14.830679908956231 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 15 iteration is: 14.87949890634321 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 16 iteration is: 14.97473130795794 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 17 iteration is: 15.024249380600981 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 18 iteration is: 14.844093343349407 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 19 iteration is: 15.021589129751883 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 20 iteration is: 14.98921307805254 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 21 iteration is: 14.900075155159039 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 22 iteration is: 15.176998225414726 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 23 iteration is: 14.90708954545179 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 24 iteration is: 14.859219403380914 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 25 iteration is: 14.833064776023203 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 26 iteration is: 14.739162101434937 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 27 iteration is: 15.03144620520335 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 28 iteration is: 15.050932247437819 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 29 iteration is: 14.968510851990088 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 30 iteration is: 14.913528442549312 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 1 iteration is: 14.963679106813169 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 2 iteration is: 15.017515844406534 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 3 iteration is: 15.025389471386209 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 4 iteration is: 14.776480254786334 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 5 iteration is: 14.935687077040209 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 6 iteration is: 14.672987769986518 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 7 iteration is: 15.018304293722544 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 8 iteration is: 15.273327175623226 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 9 iteration is: 14.889881136424538 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 10 iteration is: 14.750019690644823 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 11 iteration is: 14.838162145779664 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 12 iteration is: 15.172553137059728 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 13 iteration is: 15.011041654282916 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 14 iteration is: 14.847499467043935 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 15 iteration is: 14.949890853644494 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 16 iteration is: 14.979892696367587 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 17 iteration is: 15.067383698642766 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 18 iteration is: 14.863610077578588 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 19 iteration is: 14.8433759034071 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 20 iteration is: 14.624348336348161 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 21 iteration is: 15.12513556777298 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 22 iteration is: 14.767049663498668 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 23 iteration is: 14.949891101864903 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 24 iteration is: 15.157883892861472 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 25 iteration is: 14.89414735810923 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 26 iteration is: 15.199119814600794 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 27 iteration is: 15.102152310654374 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 28 iteration is: 14.807182341892869 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 29 iteration is: 14.58080462779782 
+The average shortest path length of the largest connected component of the California road network (with approximation) for the 30 iteration is: 14.933121243055943 

@@ -1,0 +1,11 @@
+Louvain Modularity: 0.9521036339091566; Spectral Clustering Modularity: 0.9462311761523781; Spectral Clustering 2 Modularity: 0.944243278894409
+Louvain Modularity: 0.951199341102144; Spectral Clustering Modularity: 0.9464261128732396; Spectral Clustering 2 Modularity: 0.9458822474436941
+Louvain Modularity: 0.9516454511395535; Spectral Clustering Modularity: 0.9455839563376733; Spectral Clustering 2 Modularity: 0.9448981849107881
+Louvain Modularity: 0.951811696843913; Spectral Clustering Modularity: 0.9449602660755596; Spectral Clustering 2 Modularity: 0.9403992235689222
+Louvain Modularity: 0.9586317102320904; Spectral Clustering Modularity: 0.9531895586954738; Spectral Clustering 2 Modularity: 0.9514692805307002
+Louvain Modularity: 0.9433874916675569; Spectral Clustering Modularity: 0.9390819321557289; Spectral Clustering 2 Modularity: 0.938310845978094
+Louvain Modularity: 0.9503893175705113; Spectral Clustering Modularity: 0.9454955707275448; Spectral Clustering 2 Modularity: 0.9397558293496541
+Louvain Modularity: 0.9487348888663565; Spectral Clustering Modularity: 0.942824517378116; Spectral Clustering 2 Modularity: 0.9413859797416346
+Louvain Modularity: 0.9504787423087439; Spectral Clustering Modularity: 0.9461072487696399; Spectral Clustering 2 Modularity: 0.9411864089042082
+Louvain Modularity: 0.9521119601667416; Spectral Clustering Modularity: 0.9463625241114089; Spectral Clustering 2 Modularity: 0.9464896008199898
+Louvain Modularity: 0.9493453132529078; Spectral Clustering Modularity: 0.9436301849027937; Spectral Clustering 2 Modularity: 0.9399907356534324
